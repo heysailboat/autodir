@@ -5,7 +5,7 @@ setup(
     packages=find_packages(include=['autodir']),
     version="1.0.0",
     description="Automatically switch directories, simply.",
-    author="HyperSource",
+    author="heysailboat",
     install_requires=['pathlib'],
     setup_requires=['pytest-runner'],
     tests_require=['pytest', 'pathlib'],
